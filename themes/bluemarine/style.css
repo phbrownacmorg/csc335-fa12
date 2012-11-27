@@ -347,3 +347,6 @@ div.admin-panel h3 {
   padding: 5px 8px 5px;
   margin: 0;
 }
+.field-field-photo{
+	float:right;
+}
