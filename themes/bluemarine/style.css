@@ -331,8 +331,12 @@ ul.links li.first {
 #profile .profile .name {
   padding-bottom: 0.5em;
   float:left;
-  color: #C00;
 }
+#profile .profile .lname{
+	float:right;
+	color:#CC0000;
+}
+
 .block-forum h3 {
   margin-bottom: .5em;
 }
