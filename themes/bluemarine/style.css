@@ -332,8 +332,7 @@ ul.links li.first {
   padding-bottom: 0.5em;
   float:left;
 }
-#profile .profile .lname{
-	float:right;
+#profile .profile field_lname{
 	color:#CC0000;
 }
 
