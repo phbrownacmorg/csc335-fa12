@@ -2,7 +2,7 @@
 .filefield-element .imagefield-preview {
   min-width: 100px;
   min-height: 100px;
-  border:thick #CF0;
+  right:auto;
 }
 
 .filefield-element .imagefield-text {
